@@ -8,7 +8,7 @@ package ua.university;
 public class BasicOperators {
 
     /**
-     * Returns the sum and average of three integers.
+     * Returns    the sum and average of three integers.
      *
      * @param a first integer
      * @param b second integer
